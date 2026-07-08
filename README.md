@@ -1,7 +1,7 @@
 # Ccnd1_IRI
 Analysis code accompanying the manuscript on Cyclin D1 antagonism in ischemic acute kidney injury.
 
-## Data
+## Original data
 
 Single-cell RNA-sequencing data are available through GEO: GSE180420
 
